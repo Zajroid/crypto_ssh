@@ -1,0 +1,5 @@
+[server]
+tcp_port = 22
+username = root
+password = 1234
+ip_address = 12.33.222.444
